@@ -34,9 +34,6 @@
   <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="terraform logo"  />
   <?xml version="1.0" encoding="UTF-8"?>
 <svg width="80px" height="40px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
-    <title>Icon-Architecture/64/Arch_AWS-CloudFormation_64</title>
-    <desc>Created with Sketch.</desc>
     <defs>
         <linearGradient x1="0%" y1="100%" x2="100%" y2="0%" id="linearGradient-1">
             <stop stop-color="#B0084D" offset="0%"></stop>
